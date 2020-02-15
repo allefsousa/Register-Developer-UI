@@ -1,9 +1,9 @@
 import React from 'react';
 import Header from './Header';
 
-//Componet
-// Estado
-// Propriedade
+//Componet = Bloco isolado de HTML, CSS e JS 
+// Propriedade = 
+// Estado = 
 
 
 
@@ -11,7 +11,11 @@ import Header from './Header';
 
 function App() {
   return (
-    <Header/>
+    <>
+    <Header title="Dashboard"/>
+    <Header title="Dashboard"/>
+    <Header title="Dashboard"/>
+  </>
   );
 }
 
