@@ -1,15 +1,12 @@
 import React from 'react';
+import Header from './Header';
 
 //Componet
 // Estado
 // Propriedade
 
 
-function Header(){
-  return(
-    <h1>Header</h1>
-  );
-}
+
 
 
 function App() {
