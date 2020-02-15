@@ -2,8 +2,8 @@ import React,{ useState } from 'react';
 import Header from './Header';
 
 //Componet = Bloco isolado de HTML, CSS e JS 
-// Propriedade = 
-// Estado = 
+// Propriedade = Informações que um componenet pai passa para um filho
+// Estado = Informações mantidas pelo componenete
 function App() {
   const [counter,setCounter] =useState(0);
 
