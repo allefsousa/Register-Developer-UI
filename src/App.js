@@ -40,7 +40,54 @@ function App() {
       </aside>
       <main>
         <ul>
-          
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars0.githubusercontent.com/u/7042627?s=460" alt =""/>
+
+              <div className="user-info">
+                <strong>Allef Sousa</strong>
+                <span>Java, Kotlin,Android e IOS</span>
+              </div>
+            </header>
+            <p>Graduado em Ciência da Computação/ Pós Graduado em Gestão de projetos/ Mobile Developer</p>
+            <a href="https://github.com/allefsousa">Acessar Perfil no Github</a>
+          </li>
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars0.githubusercontent.com/u/7042627?s=460" alt =""/>
+
+              <div className="user-info">
+                <strong>Allef Sousa</strong>
+                <span>Java, Kotlin,Android e IOS</span>
+              </div>
+            </header>
+            <p>Graduado em Ciência da Computação/ Pós Graduado em Gestão de projetos/ Mobile Developer</p>
+            <a href="https://github.com/allefsousa">Acessar Perfil no Github</a>
+          </li>
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars0.githubusercontent.com/u/7042627?s=460" alt =""/>
+
+              <div className="user-info">
+                <strong>Allef Sousa</strong>
+                <span>Java, Kotlin,Android e IOS</span>
+              </div>
+            </header>
+            <p>Graduado em Ciência da Computação/ Pós Graduado em Gestão de projetos/ Mobile Developer</p>
+            <a href="https://github.com/allefsousa">Acessar Perfil no Github</a>
+          </li>
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars0.githubusercontent.com/u/7042627?s=460" alt =""/>
+
+              <div className="user-info">
+                <strong>Allef Sousa</strong>
+                <span>Java, Kotlin,Android e IOS</span>
+              </div>
+            </header>
+            <p>Graduado em Ciência da Computação/ Pós Graduado em Gestão de projetos/ Mobile Developer</p>
+            <a href="https://github.com/allefsousa">Acessar Perfil no Github</a>
+          </li>
         </ul>
 
       </main>
